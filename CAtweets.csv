@@ -1,0 +1,12 @@
+,,,,,,
+,,predicted,,,accuracy,Training Data
+,,negative,neutral,positive,,
+Actual,negative,880,56,63,88%,1200
+,neutral,88,311,101,62%,1000
+,positive,159,145,696,70%,1200
+,,,,,,
+,,predicted,,,accuracy,Training Data
+,,negative,neutral,positive,,
+Actual,negative,2,6,9,12%,17
+,neutral,3,29,46,37%,78
+,positive,0,26,71,73%,97
